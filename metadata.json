@@ -1,0 +1,6 @@
+{
+  "name": "RefillGo",
+  "description": "Smart laundry detergent refill station tracker, interactive campus map, and sustainability dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
